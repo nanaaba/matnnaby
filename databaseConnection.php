@@ -7,7 +7,7 @@ class databaseConnection //create a class for make connection
    
     var $host = "localhost";
     var $username = "root";    // specify the sever details for mysql
-    var $password="nana@1991";
+    var $password="password";
     var $database = "ourwedding";//vso
     var $myconn;
 
