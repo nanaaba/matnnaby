@@ -160,7 +160,7 @@
                         </h2>
                     </header>
                     <p class="subline">Invite You to Celebrate At their Wedding</p>
-                    <img src="img/couple.jpg"  style="width: 627px; height: 600px;" alt="Placeholder" class="hero-unit" />
+                    <img src="img/couple.jpg" alt="Placeholder" class="hero-unit" />
                     <div class="row divider date-section">
                         <div class="large-6 small-12 columns">
                             <div class="date-container col-1">
@@ -256,61 +256,51 @@
                     <div class="small-12 columns">
                         <ul class="clearing-thumbs" data-clearing>
                             <li>
-                                <a href="img/mem2.jpg">
-                                    <img src="img/mem2.jpg" alt="2017" />
-                                    <span class="overlay-label">2017</span>
+                                <a href="img/KOFI-ABA-0048.jpg">
+                                    <img src="img/KOFI-ABA-0048.jpg" alt="2018" />
+                                    <span class="overlay-label">2018</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="img/mem3.jpg">
-                                    <img src="img/mem3.jpg" alt="February 2018" />
-                                    <span class="overlay-label">February 2018</span>
+                                <a href="img/KOFI-ABA-0054.jpg">
+                                    <img src="img/KOFI-ABA-0054.jpg" alt="2018" />
+                                    <span class="overlay-label">2018</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="img/mem4.jpg">
-                                    <img src="img/mem4.jpg" alt="2013 @knust" />
-                                    <span class="overlay-label">2013 @knust</span>
+                                <a href="img/KOFI-ABA-0077.jpg">
+                                    <img src="img/KOFI-ABA-0077.jpg" alt="2018" />
+                                    <span class="overlay-label">2018</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="img/mem6.jpg">
-                                    <img src="img/mem6.jpg" alt="2014 @knust" />
-                                    <span class="overlay-label">2014 @knust</span>
+                                <a href="img/KOFI-ABA-0111.jpg">
+                                    <img src="img/KOFI-ABA-0111.jpg" alt="2018" />
+                                    <span class="overlay-label">2018</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="img/mem7.jpg">
-                                    <img src="img/mem7.jpg" alt="2014 graduation" />
-                                    <span class="overlay-label">2014 graduation</span>
+                                <a href="img/KOFI-ABA-0271.jpg">
+                                    <img src="img/KOFI-ABA-0271.jpg" alt="2018" />
+                                    <span class="overlay-label">2018</span>
+                                </a>
+                            </li>
+                     
+
+                            <li>
+                                <a href="img/KOFI-ABA-0370.jpg">
+                                    <img src="img/KOFI-ABA-0370.jpg" alt="2018 " />
+                                    <span class="overlay-label">2018</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="img/mem5.jpg">
-                                    <img src="img/mem5.jpg" alt="2014 comp class" />
-                                    <span class="overlay-label">2014 comp class</span>
+                                <a href="img/KOFI-ABA-0229.jpg">
+                                    <img src="img/KOFI-ABA-0229.jpg" alt="2018 " />
+                                    <span class="overlay-label">2018</span>
                                 </a>
                             </li>
 
-                            <li>
-                                <a href="img/mem8.jpg">
-                                    <img src="img/mem8.jpg" alt="2015 " />
-                                    <span class="overlay-label">2015 </span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="img/mem9.jpg">
-                                    <img src="img/mem9.jpg" alt="2015 " />
-                                    <span class="overlay-label">2015</span>
-                                </a>
-                            </li>
-
-                            <li>
-                                <a href="img/mem11.jpg">
-                                    <img src="img/mem11.jpg" alt="2017" />
-                                    <span class="overlay-label">2017</span>
-                                </a>
-                            </li>
+                          
                             <li>
                                 <a href="img/mem12.jpg">
                                     <img src="img/mem12.jpg" alt="2018" />
@@ -323,9 +313,22 @@
                                     <span class="overlay-label">2018</span>
                                 </a>
                             </li>
-                            <li>
+                           
+                             <li>
+                                 <a href="img/KOFI-ABA-0250.jpg">
+                                    <img src="img/KOFI-ABA-0250.jpg" alt="2018" />
+                                    <span class="overlay-label">2018</span>
+                                </a>
+                            </li>
+                             <li>
                                 <a href="img/couple2.jpg">
                                     <img src="img/couple2.jpg" alt="2018" />
+                                    <span class="overlay-label">2018</span>
+                                </a>
+                            </li>
+                             <li>
+                                <a href="img/KOFI-ABA-0365.jpg">
+                                    <img src="img/KOFI-ABA-0365.jpg" alt="2018" />
                                     <span class="overlay-label">2018</span>
                                 </a>
                             </li>
@@ -504,12 +507,12 @@
 
                         <div class="large-3 columns">
                             <p class="gbnames">Emmanuel Mills</p><br>
-                            <span>0204977678</span>
+                            <span>0278468340</span>
 
                         </div>
                         <div class="large-3 columns">
                             <p class="gbnames">Kweku Amuah Odum</p><br>
-                            <span>0204977678</span>
+                            <span>0202988111</span>
 
                         </div><div class="large-3 columns">
                             <p class="gbnames">Gifty Cann</p><br>
@@ -517,7 +520,7 @@
 
                         </div><div class="large-3 columns">
                             <p class="gbnames">Ewuradwoa  Odum</p><br>
-                            <span>0204977678</span>
+                            <span>0204844366</span>
 
                         </div>
 
