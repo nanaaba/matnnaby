@@ -73,13 +73,6 @@
                 font-style: oblique;
                 font-weight: bold;
             }
-
-            @media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ }
-            @media (min-width:481px)  { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
-            @media (min-width:641px)  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
-            @media (min-width:961px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
-            @media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
-            @media (min-width:1281px) { /* hi-res laptops and desktops */ }
         </style>
     </head>
 
@@ -163,11 +156,11 @@
                 <div id="section-0">
                     <header>
                         <h2 class="section-title">
-                            <span>Mathias</span> <em>&</em> <span>Nana Aba</span>
+                            <span>Mathias</span> <em>and</em> <span>Nana Aba</span>
                         </h2>
                     </header>
                     <p class="subline">Invite You to Celebrate At their Wedding</p>
-                    <img src="img/banner.jpg" alt="Placeholder" class="hero-unit" />
+                    <img src="img/couple.jpg" alt="Placeholder" class="hero-unit" />
                     <div class="row divider date-section">
                         <div class="large-6 small-12 columns">
                             <div class="date-container col-1">
@@ -263,14 +256,14 @@
                     <div class="small-12 columns">
                         <ul class="clearing-thumbs" data-clearing>
                             <li>
-                                <a href="img/new1.jpg">
-                                    <img src="img/new1.jpg" alt="2018" />
+                                <a href="img/KOFI-ABA-0048.jpg">
+                                    <img src="img/KOFI-ABA-0048.jpg" alt="2018" />
                                     <span class="overlay-label">2018</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="img/couple99.jpg">
-                                    <img src="img/couple99.jpg" alt="2018" />
+                                <a href="img/KOFI-ABA-0054.jpg">
+                                    <img src="img/KOFI-ABA-0054.jpg" alt="2018" />
                                     <span class="overlay-label">2018</span>
                                 </a>
                             </li>
@@ -292,7 +285,7 @@
                                     <span class="overlay-label">2018</span>
                                 </a>
                             </li>
-
+                     
 
                             <li>
                                 <a href="img/KOFI-ABA-0370.jpg">
@@ -307,7 +300,7 @@
                                 </a>
                             </li>
 
-
+                          
                             <li>
                                 <a href="img/mem12.jpg">
                                     <img src="img/mem12.jpg" alt="2018" />
@@ -320,22 +313,22 @@
                                     <span class="overlay-label">2018</span>
                                 </a>
                             </li>
-
-                            <li>
-                                <a href="img/KOFI-ABA-0250.jpg">
+                           
+                             <li>
+                                 <a href="img/KOFI-ABA-0250.jpg">
                                     <img src="img/KOFI-ABA-0250.jpg" alt="2018" />
                                     <span class="overlay-label">2018</span>
                                 </a>
                             </li>
-                            <li>
+                             <li>
                                 <a href="img/couple2.jpg">
                                     <img src="img/couple2.jpg" alt="2018" />
                                     <span class="overlay-label">2018</span>
                                 </a>
                             </li>
-                            <li>
-                                <a href="img/new3.jpg.jpg">
-                                    <img src="img/new3.jpg" alt="2018" />
+                             <li>
+                                <a href="img/KOFI-ABA-0365.jpg">
+                                    <img src="img/KOFI-ABA-0365.jpg" alt="2018" />
                                     <span class="overlay-label">2018</span>
                                 </a>
                             </li>
@@ -503,8 +496,8 @@
 
 
                 <!-- END #section-4 -->
-
-                <div id="section-5">
+          
+       <div id="section-5">
                     <div class="row">
                         <div class="section-title-container">
                             <h2 class="section-title"> RSVP</h2>
@@ -512,17 +505,20 @@
                         </div>
 
 
-                        <div class="large-4 columns">
+                        <div class="large-3 columns">
                             <p class="gbnames">Emmanuel Mills</p><br>
                             <span>0278468340</span>
 
                         </div>
-                        <div class="large-4 columns">
+                        <div class="large-3 columns">
                             <p class="gbnames">Kweku Amuah Odum</p><br>
                             <span>0202988111</span>
 
-                        </div>
-                        <div class="large-4 columns">
+                        </div><div class="large-3 columns">
+                            <p class="gbnames">Gifty Cann</p><br>
+                            <span>0204977678</span>
+
+                        </div><div class="large-3 columns">
                             <p class="gbnames">Ewuradwoa  Odum</p><br>
                             <span>0204844366</span>
 
@@ -533,7 +529,7 @@
                     </div>
                     <!-- END .row -->
                 </div>
-                <div id="section-6">
+      <div id="section-6">
                     <div class="row">
                         <div class="section-title-container">
                             <h2 class="section-title">COLORS</h2>
@@ -543,14 +539,14 @@
 
                         <div class="large-4 columns">
                             <p class="gbnames">BURGUNDY</p><br>
-
+                           
                         </div>
                         <div class="large-4 columns">
                             <p class="gbnames">BEIGE</p><br>
-
+                          
                         </div><div class="large-4 columns">
                             <p class="gbnames">IVORY</p><br>
-
+                          
 
                         </div>
 
@@ -595,6 +591,7 @@
 
 </html>
 <?php
+
 require_once './ConfigClass.php';
 $config = new ConfigClass();
 $config->adduserviewer();
